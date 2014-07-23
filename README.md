@@ -4,6 +4,8 @@ Documentation:
 ----------------------------
 ### [Get Started](https://github.com/drawapp8/gamebuilder/wiki/Get-Start)
 
+### [Work With Cocos2d-html5](https://github.com/drawapp8/gameui-for-cocos2d-js/wiki/GetStarted)
+
 Related Projects:
 ----------------------------
 
