@@ -1,4 +1,4 @@
-### [Game Builder](http://gamebuilder.sinaapp.com/appedit.php) is a online game ui editor.
+### [Game Builder](http://gamebuilder.duapp.com/appedit.php) is a online game ui editor.
 
 中文文档:
 ----------------------------
