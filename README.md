@@ -1,14 +1,36 @@
 ### [Game Builder](http://gamebuilder.sinaapp.com/appedit.php) is a online game ui editor.
 
+中文文档:
+----------------------------
+### [中文文档](https://github.com/drawapp8/gamebuilder/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3) 
+
 Documentation:
 ----------------------------
-### [Get Started](https://github.com/drawapp8/gamebuilder/wiki/Get-Start)
+### [Get Started](https://github.com/drawapp8/gamebuilder/wiki/Get-Started)
 
-### [Work With Cocos2d-html5](https://github.com/drawapp8/gameui-for-cocos2d-js/wiki/GetStarted)
+### [Work With Cocos2d-html5](https://github.com/drawapp8/gameui-for-cocos2d-js/wiki/)
+
+### [Work With pixi.js](https://github.com/drawapp8/gameui-for-pixi-js/wiki/)
+
+### [Work With panda.js](https://github.com/drawapp8/gameui-for-panda-js/wiki/)
+
+### [Work With phaser.js](https://github.com/drawapp8/gameui-for-phaser-js/wiki/)
+
+### [Work With egret.js](https://github.com/drawapp8/gameui-for-egret-js/wiki/)
+
+### [Work With egret.js](https://github.com/drawapp8/gameui-for-egret-js/wiki/)
+
 
 Related Projects:
 ----------------------------
+### [gameui-for-cocos2d-js](https://github.com/drawapp8/gameui-for-cocos2d-js) 
 
-* [gameui-for-cocos2d-js](https://github.com/drawapp8/gameui-for-cocos2d-js) 
+### [gameui-for-pixi-js](https://github.com/drawapp8/gameui-for-pixi-js) 
 
-* [Canvas ToolKit](https://github.com/drawapp8/cantk)
+### [gameui-for-panda-js](https://github.com/drawapp8/gameui-for-panda-js) 
+
+### [gameui-for-phaser-js](https://github.com/drawapp8/gameui-for-phaser-js) 
+
+### [gameui-for-egret-js](https://github.com/drawapp8/gameui-for-egret-js) 
+
+### [Canvas ToolKit](https://github.com/drawapp8/cantk)
