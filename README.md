@@ -20,6 +20,10 @@ Documentation:
 
 ### [Work With egret.js](https://github.com/drawapp8/gameui-for-egret-js/wiki/)
 
+### [Physics Programming](https://github.com/drawapp8/gamebuilder/wiki/Physics-Programming/)
+
+### [Controls Programming](https://github.com/drawapp8/cantk/wiki/English-API/)
+
 
 Related Projects:
 ----------------------------
