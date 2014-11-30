@@ -1,4 +1,8 @@
-### [Game Builder](http://gamebuilder.duapp.com/appedit.php) is a online game ui editor.
+### Game Builder is a online HTML5 games/apps develop environment.
+----------------------------
+#### To develop HTML5 Apps Click Here [App Builder](http://gamebuilder.duapp.com/appbuilder.php)
+
+#### To develop HTML5 Games Click Here [Game Builder](http://gamebuilder.duapp.com/gamebuilder.php)
 
 中文文档:
 ----------------------------
@@ -6,6 +10,9 @@
 
 Documentation:
 ----------------------------
+
+### [API Reference](https://github.com/drawapp8/cantk/wiki/English-API)
+
 ### [Get Started](https://github.com/drawapp8/gamebuilder/wiki/Get-Started)
 
 ### [Work With Cocos2d-html5](https://github.com/drawapp8/gameui-for-cocos2d-js/wiki/)
@@ -19,10 +26,6 @@ Documentation:
 ### [Work With egret.js](https://github.com/drawapp8/gameui-for-egret-js/wiki/)
 
 ### [Work With egret.js](https://github.com/drawapp8/gameui-for-egret-js/wiki/)
-
-### [Physics Programming](https://github.com/drawapp8/gamebuilder/wiki/Physics-Programming/)
-
-### [Controls Programming](https://github.com/drawapp8/cantk/wiki/English-API/)
 
 
 Related Projects:
