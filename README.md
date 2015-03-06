@@ -1,19 +1,10 @@
-### Game Builder is a online HTML5 games/apps develop environment.
-----------------------------
-#### To develop HTML5 Apps Click Here [App Builder](http://gamebuilder.duapp.com/appbuilder.php)
 
-#### To develop HTML5 Games Click Here [Game Builder](http://gamebuilder.duapp.com/gamebuilder.php)
-
-中文文档:
-----------------------------
-### [中文文档](https://github.com/drawapp8/gamebuilder/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3) 
 
 Documentation:
 ----------------------------
+### [中文文档](https://github.com/drawapp8/cantk/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
 
-### [API Reference](https://github.com/drawapp8/cantk/wiki/English-API)
-
-### [Get Started](https://github.com/drawapp8/gamebuilder/wiki/Get-Started)
+### [English Docs](https://github.com/drawapp8/cantk/wiki/English-Docs)
 
 ### [Work With Cocos2d-html5](https://github.com/drawapp8/gameui-for-cocos2d-js/wiki/)
 
